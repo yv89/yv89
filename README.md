@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yv89
 - 👀 I’m interested in networking
-- 🌱 I’m currently learning ccna
+- 🌱 I’m currently learning ccna,ccnp,python 3 for network engineer,juniper jncia comlete junos
 - 💞️ I’m looking to collaborate on working togher
 - 📫 How to reach me @yverson25212031
 <!---
